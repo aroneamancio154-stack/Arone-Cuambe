@@ -1,0 +1,6 @@
+{
+  "name": "AutoVenda Social",
+  "description": "Aplicativo de automação de vendas e postagem programada multicanal para redes sociais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
